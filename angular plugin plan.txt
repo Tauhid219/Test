@@ -1,0 +1,8 @@
+node index.js --> execute a nodejs file/ js file 
+npm install -g [package_title/@version] ---> installing npm packages 
+ng new [project_title]--> create new angular project 
+ng serve ---> run dev server of angular project 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14604.117452446726!2d90.4164072!3d23.7819687!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c79ec1333af5%3A0xb684f825715dba66!2sLotus%20Kamal%20Tower!5e0!3m2!1sen!2sbd!4v1675057280644!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>  
+
+Cross Side Scripting
